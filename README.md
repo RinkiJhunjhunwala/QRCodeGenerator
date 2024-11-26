@@ -48,7 +48,7 @@ For feedback, suggestions, or collaborations, feel free to reach out:
 
 ## 🎉 **Let’s Make Sharing Simple and Effective!**  
 
-**Visit the Website:** [QR Code Generator App](https://qrcode-generator-ashy.vercel.app/)
+**Visit the Website:** [QR Code Generator](https://qrcode-generator-ashy.vercel.app/)
 
 
 ---
